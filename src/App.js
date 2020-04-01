@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="container">
       <div className="json">
-        <span className="pink">let</span> gabriel_nascimento{" "}
+        <span className="pink">let</span> <h1>gabrielnascimento{" "}</h1>
         <span className="pink"> = </span> {"{"} <br />
         <TypeWriter typing={1}>
           <span className="pink mgl">"Nome": </span>{" "}

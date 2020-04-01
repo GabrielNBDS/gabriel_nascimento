@@ -40,6 +40,9 @@ a{
   animation-delay: 3.5s;
 }
 
+h1{
+  display: inline;
+}
 @keyframes background{
   0% ,100%{
     background-color: rgba(241, 237, 104, 0);
