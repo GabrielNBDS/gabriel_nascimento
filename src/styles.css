@@ -1,0 +1,52 @@
+.container{
+  height: 100vh;
+  width: 100vw;
+
+  background-color: #282A36;
+  color: #ffffff;
+  line-height: 30px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.mgl{
+  margin-left: 30px;
+}
+
+.pink {
+  color: #FF70B3;
+}
+
+.yellow{
+  color: #F1ED68;
+}
+
+.purple{
+  color: #BD93DA;
+}
+
+.alert{
+  font-size: 16;
+}
+
+a{
+  padding: 5px;
+  border-radius: 8px;
+  animation: background 2s infinite;
+  animation-delay: 3.5s;
+}
+
+@keyframes background{
+  0% ,100%{
+    background-color: rgba(241, 237, 104, 0);
+    
+  }
+
+  50%{
+    background-color: rgba(241, 237, 104, 0.3);
+
+
+  }
+  
+}
