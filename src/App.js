@@ -35,30 +35,30 @@ function App() {
         <br />
         <TypeWriter typing={1}>
           <span className="pink mgl">"Contato": </span> [ 
-          <a href="https://github.com/GabrielNBDS" target="_blank" className="yellow" rel="noopener noreferrer">GitHub</a>, {" "}
-          <a href="https://www.linkedin.com/in/gabrielnbds/" target="_blank" className="yellow" rel="noopener noreferrer">LinkedIn</a>, {" "}
-          <a href="#" title="gabriel.nbds@gmail.com" onClick={handleEmail} title="gabriel.nbds@gmail.com" className="yellow" rel="noopener noreferrer">Email</a>],
+          <a href="https://github.com/GabrielNBDS" target="_blank" className="yellow" rel="noopener noreferrer">"GitHub"</a>, {" "}
+          <a href="https://www.linkedin.com/in/gabrielnbds/" target="_blank" className="yellow" rel="noopener noreferrer">"LinkedIn"</a>, {" "}
+          <a href="#" title="gabriel.nbds@gmail.com" onClick={handleEmail} title="gabriel.nbds@gmail.com" className="yellow" rel="noopener noreferrer">"Email"</a>],
         </TypeWriter>
         <br />
         <TypeWriter typing={1}>
           <span className="pink mgl">"Habilidades": </span> [
-          <span className="yellow">HTML</span>,
-          <span className="yellow"> CSS</span>,
-          <span className="yellow"> SASS</span>,
-          <span className="yellow"> Javascript</span>],
+          <span className="yellow">"HTML"</span>,
+          <span className="yellow"> "CSS"</span>,
+          <span className="yellow"> "SASS"</span>,
+          <span className="yellow"> "Javascript"</span>],
         </TypeWriter>
         <br />
         <TypeWriter typing={1}>
           <span className="pink mgl">"Stack": </span> [
-          <span className="yellow">ReactJS</span>,
-          <span className="yellow"> ReactNative</span>,  
-          <span className="yellow"> NodeJS</span>],
+          <span className="yellow">"ReactJS"</span>,
+          <span className="yellow"> "ReactNative"</span>,  
+          <span className="yellow"> "NodeJS"</span>],
         </TypeWriter>
         <br />
         <TypeWriter typing={1}>
           <span className="pink mgl">"Banco_de_dados": </span> [
-          <span className="yellow">MongoDB</span>, 
-          <span className="yellow"> PostgreSQL</span>],
+          <span className="yellow">"MongoDB"</span>, 
+          <span className="yellow"> "PostgreSQL"</span>],
         </TypeWriter>
         <br />
         <TypeWriter typing={1}>
